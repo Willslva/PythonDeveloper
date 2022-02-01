@@ -14,7 +14,7 @@ Experience in: Python, SQ, HTML, JavaScript, Django and CSS
 * [LinkedIn](https://www.linkedin.com/in/william-silva-a4489621a/)
 
 
-## Projetos:
+## Projects:
 See the projects published by me:
 
 ## Python Developer:
